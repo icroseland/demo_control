@@ -14,7 +14,7 @@ mod 'puppet-extlib'
 mod 'puppet-php'
 mod 'puppetlabs-kubernetes'
 mod 'puppetlabs-docker'
-mod 'icinga-icinga2'
+mod 'puppet-icinga2'
 mod 'puppetlabs-mysql'
 #not from forge
 #profile code and local modules
